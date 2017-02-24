@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/byyin">
+        <file>1.png</file>
+        <file>校园生活.png</file>
+        <file>学术科技.png</file>
+        <file>休闲娱乐.png</file>
+        <file>版面选择.png</file>
+        <file>背景.jpg</file>
+        <file>谈天说地.png</file>
+        <file>s.jpg</file>
+        <file>边框.png</file>
+        <file>添加.png</file>
+        <file>image/a.ico</file>
+        <file>image/my.rc</file>
+    </qresource>
+</RCC>
