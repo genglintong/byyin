@@ -3,7 +3,7 @@
 <br>
 #登录功能<br>
 ![](https://github.com/genglintong/byyin/blob/master/readme/1.png)<br>
-差错处理
+差错处理<br>
 ![](https://github.com/genglintong/byyin/blob/master/readme/2.png)<br>
 ![](https://github.com/genglintong/byyin/blob/master/readme/3.png)<br>
 部分实现代码
