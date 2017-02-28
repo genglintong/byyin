@@ -1,5 +1,7 @@
 # byyin
 北京邮电大学 c++小学期<br>
+开发语言   C++<br>
+使用工具   QT<br>
 ![](https://github.com/genglintong/byyin/blob/master/%E7%89%88%E9%9D%A2%E9%80%89%E6%8B%A9.png)
 <br>
 <br>
@@ -23,4 +25,4 @@
 ![](https://github.com/genglintong/byyin/blob/master/readme/12.png)<br>
 ![](https://github.com/genglintong/byyin/blob/master/readme/13.png)<br>
 
-##详情请下载查看 程序说明书.doc<br>
+##[详情请下载查看 程序说明书.doc](https://github.com/genglintong/byyin/blob/master/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E%E4%B9%A6.docx)<br>
